@@ -22,6 +22,7 @@ namespace RPG_Shop
                 Console.WriteLine("4: Buy Senzu Bean");
                 Console.WriteLine("5: Exit");
             }
+
         }
     }
 }
